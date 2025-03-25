@@ -1,5 +1,7 @@
 # Café Sales Project
 
+### Dataset Source: https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training
+
 ## Overview
 A café has requested our services in order to improve the operations and financials of their business. A dataset consisting of 10,000 rows of café sales was provided to us; however, there are many NULL values and standardization issues within this dataset. After cleaning the data, we must help stakeholders understand important metrics within this café as shown in the dashboard in PowerBI. The objective of this project is to extract insights such as sales performance, customer behavior, and operational efficiency from the dataset to suggest improvements under the economy of this café to improve the business owners' KPI goal of $7,000 to $8,500 in profit monthly to meet the overall KPI goal of $100,000 annually.
 
