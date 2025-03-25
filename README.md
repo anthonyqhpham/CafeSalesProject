@@ -27,21 +27,19 @@ A café has requested our services in order to improve the operations and financ
 
 # Insights 
 ### [1] Relationship Between Total Revenue and Total Quantity Sold
-![Image](https://github.com/user-attachments/assets/3bd85a06-3b3b-4cdb-8213-da1ea695205c)
+![Image](https://github.com/user-attachments/assets/6453a728-cd4f-4004-812f-43df0d728440)
 
 There is positive correlation between total revenue and total quantity sold, meaning when one variable moves in a positive/negative direction, the other variable will follow. For example, on a month-to-month basis from January to February, when total revenue decreased, total quantity decreased as well. Essentially, this means when we sell more units, our total revenue increases. The opposite holds true as well; when we sell less units, our total revenue decreases. To further analyze these two variables’ relationship, we can look at our pricing strategy by comparing our listed price per unit and our average price per unit.
 
-![Image](https://github.com/user-attachments/assets/e0d1dd0a-626e-4aeb-9f69-0e5355a3da46)
-
 ### [2] Price Per Unit vs. Average Price Per Unit
-![Image](https://github.com/user-attachments/assets/270572c7-e3ba-4b62-b011-891ec51526af)
+![Image](https://github.com/user-attachments/assets/5d96fed2-68f3-494b-b62d-8a28ab22b877)
 
 Price per unit is the price at which each individual unit is sold whereas average price per unit is the total revenue divided by the total quantity sold which accounts for variations in pricing such as discounts, promotions, or variable pricing. In this cafe’s business model, price per unit is the same as average price per unit, meaning that we sell all units at a static price and that there are no changes in pricing over time. This would explain the positive correlation between total revenue and total quantity sold. This fixed pricing structure is great for operational simplicity and removes decision fatigue; however, it heavily limits flexibility to increase average price per unit and thereby limits flexibility to increase revenue. Adjusting the business model to introduce premium options for certain items, price bundling, and a loyalty program could corroborate the increase in average price while assimilating to customers wants and needs. To understand how to optimize our business model, we can look at the following metrics and strategies:
 
 ### [3] Total Revenue Contribution
 The total revenue contribution for each item from greatest to least is as follows:
 
-![Image](https://github.com/user-attachments/assets/27bf5301-a009-4d8c-949e-175af9471f99)
+![Image](https://github.com/user-attachments/assets/9a30193b-e3f1-4066-9f22-753a7e325010)
 
     Salad (21.49%)
 	Sandwich (17.66%)
@@ -55,7 +53,7 @@ The total revenue contribution for each item from greatest to least is as follow
 ### [4] Total Quantity Sold Contribution 
 The total quantity sold contribution for each item from greatest to least is as follows:
 
-![Image](https://github.com/user-attachments/assets/14fd12dc-871b-4986-b20f-b3633ec10587)
+![Image](https://github.com/user-attachments/assets/93d6af44-b7b4-490e-b86e-8337d1ec1259)
 
     Juice (13.28%)
     Coffee (13.11%)
@@ -82,7 +80,7 @@ Regarding modifying price, I believe we should increase our prices for coffee, t
 Regarding bundling items, I believe we should bundle coffees or teas with cookies as a morning bundle at 10% (bundle price of $2.75 or $3.60) from 6:00 AM to 11:00 AM and bundle juices with salads or sandwiches as a lunch bundle at 20% (bundle price of $7.60 or $6.80) from 11:00 AM to 2:00 PM. Both these bundles will serve as an incentive for customers to come during the peaks of breakfast and the decline of lunch, all while increasing average revenue per transaction.
 
 ### Loyalty Rewards and Discounts
-![Image](https://github.com/user-attachments/assets/d7a38e2d-3be2-4dc7-8660-4bf13b695f63)
+![Image](https://github.com/user-attachments/assets/c638763d-c27c-4df1-8926-5a93f8858881)
 
 To mitigate our price increases, keep our price elasticity stable, and reduce pushback from potential negative customer reactions, we can introduce a rewards system to increase customer loyalty, drive sales, and record demographic data from customers to then analyze for consumers behaviors. Given that each payment method of cash, credit card, and digital wallet are very evenly distributed at 33% each and the order type of in-store and takeaway are very evenly distributed at 50% each, we can be flexible. However, I believe this café should opt to do a digital points-based system where the customer logs every transaction with their phone number to accumulate points for every dollar spent. Points can then be redeemed for free items and discounts at the customers discretion with their specified payment method of choice. 
 
