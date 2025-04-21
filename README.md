@@ -25,7 +25,7 @@ A café has requested our services in order to improve the operations and financ
 - Step 16: Added table consisting of Item, Price Per Unit, and Avg Price Per Unit to show fixed pricing model.
  
  # Dashboard Snapshot (Power BI Desktop)
-![Image](https://github.com/user-attachments/assets/7bfb617d-d0f3-4ce4-9c9d-9ce8e6700141)
+![Image](https://github.com/user-attachments/assets/8520c98c-aa95-4ac8-bf56-9dccfb903389)
 
 # Insights 
 ### [1] Relationship Between Total Revenue and Total Quantity Sold
